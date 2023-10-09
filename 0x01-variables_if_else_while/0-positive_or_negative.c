@@ -4,7 +4,7 @@
 /**
 * main - Entry point
 *
-* Description: Generates a random number 
+* Description: Generates a random Number 
 *
 * Return: Always 0 (Success)
 */
