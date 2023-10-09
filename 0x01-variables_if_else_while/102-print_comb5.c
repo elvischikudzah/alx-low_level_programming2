@@ -3,7 +3,7 @@
 /**
 * main - Entry point
 * Description: Prints all possible combinations of two two-digit numbers.
-* Numbers should range from 0 to 99, and each combination is separated by a comma and space.
+* Numbers should range from 0 to 99.
 * All numbers are printed with two digits, e.g., 1 is printed as 01.
 * Combinations are printed in ascending order.
 * 00 01 and 01 00 are considered the same combination of the numbers 0 and 1.
