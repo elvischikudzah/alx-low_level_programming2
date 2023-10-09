@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - Entry point, prints whether a random number is positive, negative, or zero
+* main - Entry point, prints GRAMMAR
 *
 * Return: Always 0 (Success)
 */
