@@ -4,7 +4,7 @@
 /**
 * main - Entry point
 *
-* Description: Generates a random number and prints if it's positive, negative, or zero.
+* Description: Generates a random number 
 *
 * Return: Always 0 (Success)
 */
