@@ -20,5 +20,5 @@ else if (n == 0)
 printf("zero\n");  
 else
 printf("negative\n");
-return(0);
+return (0);
 }
