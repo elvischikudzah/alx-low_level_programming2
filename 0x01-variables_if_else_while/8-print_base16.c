@@ -2,7 +2,7 @@
 /**
 * main - Entry point
 *
-* Description: Prints all numbers of base 16 in L`owercase 
+* Description - None
 *
 * Return: Always 0 (Success)
 */
