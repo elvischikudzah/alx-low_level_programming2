@@ -1,5 +1,6 @@
 #include <stdio.h>
-/** main - Entry point
+/**
+*  main - Entry point
 *
 * Description: Prints single-digit numbers from 0 to 9 using putchar.
 *
