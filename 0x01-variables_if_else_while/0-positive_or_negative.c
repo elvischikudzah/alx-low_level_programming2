@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* print_positive_or_negative - prints whether a number is positive, negative, or zero
-* @n: the integer to check
+* main - Entry point
 *
-* This function takes an integer as input and prints whether it is positive,
-* negative, or zero. It uses the standard output for printing.
+* Description: Generates a random number and prints if it's positive, negative, or zero.
+*
+* Return: Always 0 (Success)
 */
 int main(void)
 {
